@@ -13,4 +13,4 @@ This repository describes implementations of several key mathematical functions 
 <li>Conductivity tensor imaging (CTI)</li>
 
 
-
+Documentation will be available by 30 May
