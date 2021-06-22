@@ -18,8 +18,8 @@ This repository describes implementations of several key mathematical functions 
 ## MREIT conductivity image reconstruction from Bz using CoReHa software
 
 <li>Create Bz image from positive and negative current injected phase and reconstruct conductivity images using CoReHa software. It has been assumed that you have synchronized your current injection with MR pulse sequence and have acquired current perturbed phase.   
- 
-![image](https://user-images.githubusercontent.com/14322345/122885554-25e27100-d37a-11eb-9449-489d7dbdb6d4.png)
+
+$e^{i \pi} = -1$
 
 
 
