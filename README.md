@@ -19,7 +19,8 @@ This repository describes implementations of several key mathematical functions 
 
 <li>Create Bz image from positive and negative current injected phase and reconstruct conductivity images using CoReHa software. It has been assumed that you have synchronized your current injection with MR pulse sequence and have acquired current perturbed phase.   
 
-![image](https://user-images.githubusercontent.com/14322345/122885891-70fc8400-d37a-11eb-980c-78ab84bc045e.png)
+![image](https://user-images.githubusercontent.com/14322345/122886072-98535100-d37a-11eb-9196-4376bb4579fc.png)
+
 
 
 
