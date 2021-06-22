@@ -21,7 +21,7 @@ This repository describes implementations of several key mathematical functions 
 
 MR Signal equation corresponds to positive and negative current injection:
   
-![image](https://user-images.githubusercontent.com/14322345/122886072-98535100-d37a-11eb-9196-4376bb4579fc.png)
+![](https://user-images.githubusercontent.com/14322345/122886072-98535100-d37a-11eb-9196-4376bb4579fc.png)
 
 
 
