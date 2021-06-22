@@ -17,8 +17,6 @@ This repository describes implementations of several key mathematical functions 
   
 ## MREIT conductivity image reconstruction from Bz using CoReHa software
 
-Tutorial 1: Create Bz image from horizontal, vertical, positive and negative current injected phase and reconstruct conductivity images. 
+Create Bz image from horizontal, vertical, positive and negative current injected phase and reconstruct conductivity images. 
 
-
-𝑆^± (𝑚,𝑛)=∬_(−∞)^∞▒〖𝑀(𝑥,𝑦) 𝑒^j𝛿(𝑥,𝑦)  𝑒^(±j𝛾𝐵_𝑧 (𝑥,𝑦) 𝑇_𝑐 ) 𝑒^j(𝑥𝑚∆𝑘_𝑥+𝑦𝑛∆𝑘_𝑦 )  𝑑𝑥𝑑𝑦〗
 
