@@ -23,6 +23,7 @@ MR Signal equation corresponds to positive and negative current injection:
   
 ![](https://user-images.githubusercontent.com/14322345/122886072-98535100-d37a-11eb-9196-4376bb4579fc.png)
 
+![image](https://user-images.githubusercontent.com/14322345/122886666-1f082e00-d37b-11eb-892d-16653dbc7529.png)
 
 
 
