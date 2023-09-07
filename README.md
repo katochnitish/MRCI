@@ -3,9 +3,9 @@
 
 The repository can provide various working algorithms for MREIT (Magnetic Resonance Electrical Impedance Tomography), MRCDI (Magnetic Resonance Current Density Imaging) and MREPT (Magnetic Resonance Electrical Properties Tomography) reconstructions and MRI data as well. These algorithms can be used to reconstruct images of the electrical conductivity of tissues using MRI data. Some of the preprocessing tool for reconstructing Magnetic flux density or Optimized Transmit phase has not been provided here.
 
-# Please use https://iirc.khu.ac.kr/toolbox.html for downloading the MRCI Toolbox for conductivity imaging using MRI as described in [Software Toolbox for Low-Frequency Conductivity and Current Density Imaging Using MRI](https://ieeexplore.ieee.org/document/7994618). 
+Please use https://iirc.khu.ac.kr/toolbox.html for downloading the MRCI Toolbox for conductivity imaging using MRI as described in [Software Toolbox for Low-Frequency Conductivity and Current Density Imaging Using MRI](https://ieeexplore.ieee.org/document/7994618). 
 
-# For CoReHa (Conductivity Reconstructor using Harmonic Algorithms) software, please use https://iirc.khu.ac.kr/CoReHa.html for downloading. 
+For CoReHa (Conductivity Reconstructor using Harmonic Algorithms) software, please use https://iirc.khu.ac.kr/CoReHa.html for downloading. 
 
 MRCI is a free open-source software toolbox package for electrical conductivity and current density image reconstruction using MRI data. It allows you to use multiple algorithms and state-of-the-art electromagnetic property imaging with conductivity phantom and in-vivo MR data. MRCI is a semiautomatic image reconstruction package run on Matlab [Python version is under development] and some functions need external software such as COMSOL Multiphysics [Mesh generation and forward solver] otherwise mentioned in documentation. Future updates will be without COMSOL but for the time being a mesh file is provided with tutorials.
   
