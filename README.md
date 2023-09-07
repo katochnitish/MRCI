@@ -13,18 +13,3 @@ This repository describes implementations of several key mathematical functions 
 <li>Magnetic resonance current density imaging (MRCDI)</li> 
 <li>Diffusion tensor-MREIT (DT-MREIT)</li>
 <li>Conductivity tensor imaging (CTI)</li>
-
-  
-## MREIT conductivity image reconstruction from Bz using CoReHa software
-
-<li>Create Bz image from positive and negative current injected phase and reconstruct conductivity images using CoReHa software. It has been assumed that you have synchronized your current injection with MR pulse sequence and have acquired current perturbed phase.   
-
-MR Signal equation corresponds to positive and negative current injection:
-  
-![](https://user-images.githubusercontent.com/14322345/122886072-98535100-d37a-11eb-9196-4376bb4579fc.png)
-  
-![image](https://user-images.githubusercontent.com/14322345/122886782-39420c00-d37b-11eb-9fe2-d98b431b0e4f.png)
-
-![image](https://user-images.githubusercontent.com/14322345/122888373-c6d22b80-d37c-11eb-8027-e5b460d93123.png)
-
-![image](https://user-images.githubusercontent.com/14322345/122888602-f8e38d80-d37c-11eb-953f-dcf4eb37db3b.png)
